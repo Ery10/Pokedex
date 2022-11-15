@@ -4,7 +4,7 @@
 
 > Trilha JS Developer 
 
-Projeto contruído no bootcamp da DIO.
+Projeto construído no bootcamp da DIO.
 
 ##  🛠 Tecnologias
 
